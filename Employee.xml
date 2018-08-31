@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Employee>
+	<details>
+		<id>123</id>
+		<name>Hemavi</name>
+		<email>abc@gmail.com</email>
+		<phone>789456536</phone>
+	</details>
+	<details>
+		<id>124</id>
+		<name>Hemavik</name>
+		<email>abc12@gmail.com</email>
+		<phone>789456539</phone>
+	</details>
+	<details>
+		<id>125</id>
+		<name>Hema</name>
+		<email>abc89@gmail.com</email>
+		<phone>789456532</phone>
+	</details>
+	<details>
+		<id>126</id>
+		<name>Hem</name>
+		<email>abc34@gmail.com</email>
+		<phone>789456533</phone>
+	</details>
+</Employee>
