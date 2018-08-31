@@ -13,5 +13,22 @@ Feature: Title of your feature
     
     Then The user want to verify entered values
     
-
+ @tag2
+ Scenario: Title of my scenario
+ 	  Given The user want to Login page
+    When The user have to enter Login Credentials
+ 			|fname|Hemavi|
+ 			|lname|Konakala|
+ 			|country|Belgium|
+ 			|month|8|
+ 			|date|29|
+ 			|year|1989|
+ 			|phone|7893526544|
+ 			|username|Hemavi|
+ 			|email|Hemavi@gmail.com|
+ 			|Abt|Abt Yourself|
+ 			|pass|123abc|
+ 			|cpwd|123abc|
+ 		Then The user want to verify entered credentials	
+ 			
  
